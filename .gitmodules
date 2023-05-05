@@ -8,3 +8,8 @@
 	url = https://github.com/cran/FusionLearn
 	shallow = true
 	registered = true
+[submodule "HMTL"]
+	path = HMTL
+	url = https://github.com/cran/HMTL
+	shallow = true
+	registered = true
